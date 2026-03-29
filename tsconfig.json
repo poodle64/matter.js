@@ -29,9 +29,6 @@
             "path": "packages/nodejs"
         },
         {
-            "path": "packages/nodejs-ble"
-        },
-        {
             "path": "packages/mqtt"
         },
         {
